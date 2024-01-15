@@ -44,7 +44,7 @@ main{
 }
 
 h3{
-    color:hsla(0, 0%, 100%, 0.6);
+    color:hsl(0, 0%, 100%);
 }
 
 .stats{
@@ -81,4 +81,8 @@ footer{
     position: absolute;
     top: 80%;
     text-align: center;
+}
+
+span{
+    color: violet;
 }
